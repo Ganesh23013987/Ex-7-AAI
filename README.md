@@ -5,7 +5,9 @@
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 
 ## Aim: 
+
      To perform automatic text summarization using Natural Language Processing (NLP) techniques.
+     
  <BR>
 <h3>Algorithm:</h3>
 Step 1 Import necessary libraries for natural language processing tasks.<BR>
