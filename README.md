@@ -1,5 +1,5 @@
-<H3>NAME:GANESH D</H3>
-<H3>REGISTER NO:212223240035</H3>
+<H3>NAME: GANESH D</H3>
+<H3>REGISTER NO: 212223240035</H3>
 <H3>EX. NO.7</H3>
 <H3>DATE: 17/05/25</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
@@ -76,7 +76,7 @@ print(summary)
 
 ## Output
 
-<img width="980" alt="image" src="https://github.com/user-attachments/assets/568a68c5-e109-4366-a3c1-52512719469a" />
+<img width="1100" alt="image" src="https://github.com/user-attachments/assets/568a68c5-e109-4366-a3c1-52512719469a" />
 
 
 
