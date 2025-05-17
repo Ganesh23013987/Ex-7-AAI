@@ -76,7 +76,8 @@ print(summary)
 
 ## Output
 
-<img width="999" alt="image" src="https://github.com/user-attachments/assets/568a68c5-e109-4366-a3c1-52512719469a" />
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/d96162bf-c973-40b7-ba1b-c12f62557c66" />
+
 
 
 
